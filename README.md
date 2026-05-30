@@ -95,4 +95,4 @@ The dashboard includes slicers for:
 ## 📸 Dashboard Preview
 
 
-![Sales Dashboard](dashboard-screenshot.png)
+![Sales Dashboard](Sales Performance Dashboard.png)
