@@ -88,7 +88,4 @@ The dashboard includes slicers for:
 
 ---
 
-## Project Files
-- Excel Dashboard File
-- Dataset
-
+![Dashboard Preview](Sales-Performance-Dashboard.png)
