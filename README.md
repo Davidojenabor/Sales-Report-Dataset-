@@ -91,3 +91,8 @@ The dashboard includes slicers for:
 ## Project Files
 - Excel Dashboard File
 - Dataset
+
+## 📸 Dashboard Preview
+
+
+![Sales Dashboard](dashboard-screenshot.png)
