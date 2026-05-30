@@ -92,7 +92,3 @@ The dashboard includes slicers for:
 - Excel Dashboard File
 - Dataset
 
-## 📸 Dashboard Preview
-
-
-![Sales Dashboard](Sales Performance Dashboard.png)
